@@ -19,6 +19,8 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
+##Developed by:Iniyasri.s
+##Registered number:212223230081
 surya=int(input())
 vijay=int(input())
 c=surya
@@ -30,7 +32,5 @@ print("Swapped values are:",surya,vijay)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
-![Screenshot 2024-03-09 035243](https://github.com/iniyasri4464/Swapping-two-values/assets/152419072/4ab2fa50-a6c3-4561-84e0-9df22949fc00)
-
-
+![alt text](<Screenshot 2024-03-09 035243 - Copy.png>)
 
